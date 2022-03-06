@@ -1,6 +1,7 @@
-# Bobcat Ventures Pitch Competition 
+# Bobcat Ventures Pitch Competition
 
 ## Tech Stack
-- React 
-- CSSModules 
+
+- React
+- CSSModules
 - Next.js
